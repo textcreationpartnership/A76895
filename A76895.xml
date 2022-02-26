@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from Kent being a relation of the great fight at Rochester and Maidstone, betwixt the Parliaments army under the comand of the Lord Generall Fairfax, and the Kentish forces commanded by Generall Hales. With the number that were slain and taken prisoners, and a list of the Kentish commanders, and the town of Maidstone taken. Squire Hales Generall. Sir Thomas Peyton Lieutenant Generall. The Lord Goring. Col. Washington. Sir George Lisle. Col. Dudley. Sir William Compton. Col. Hacker. Col. Tracy. Col. Hales. Col. Dorrell. Col. Godfrey. Col. Hammond. Col. Hardresse. Col. Lee. Likewise, the proceedings and resolution of Col. Cook and his regiment of butchers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76895</idno>
+            <idno type="STC">Wing B3273</idno>
+            <idno type="STC">Thomason E445_36</idno>
+            <idno type="STC">ESTC R204799</idno>
+            <idno type="EEBO-CITATION">99864260</idno>
+            <idno type="PROQUEST">99864260</idno>
+            <idno type="VID">161765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from Kent being a relation of the great fight at Rochester and Maidstone, betwixt the Parliaments army under the comand of the Lord Generall Fairfax, and the Kentish forces commanded by Generall Hales. With the number that were slain and taken prisoners, and a list of the Kentish commanders, and the town of Maidstone taken. Squire Hales Generall. Sir Thomas Peyton Lieutenant Generall. The Lord Goring. Col. Washington. Sir George Lisle. Col. Dudley. Sir William Compton. Col. Hacker. Col. Tracy. Col. Hales. Col. Dorrell. Col. Godfrey. Col. Hammond. Col. Hardresse. Col. Lee. Likewise, the proceedings and resolution of Col. Cook and his regiment of butchers.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161765:1" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES FROM KENT BEING A Relation of the great Fight at <hi>Rochester</hi> and <hi>Maidſtone,</hi> betwixt the Parliaments Army under the comand of the Lord Generall <hi>Fairfax,</hi> and the Kentiſh Forces commanded by Generall <hi>Hales.</hi>
+            </p>
+            <p>With the number that were ſlain and taken priſoners, and a Liſt of the Kentiſh Commanders, and the town of <hi>Maidſtone</hi> taken.</p>
+            <list>
+               <item>Squire <hi>Hales</hi> Generall.</item>
+               <item>Sir <hi>Thomas Peyton</hi> Lieute<g ref="char:EOLhyphen"/>nant Generall.</item>
+               <item>The Lord <hi>Goring.</hi>
+               </item>
+               <item>Col. <hi>Waſhington.</hi>
+               </item>
+               <item>Sir <hi>George Liſle.</hi>
+               </item>
+               <item>Col. <hi>Dudley.</hi>
+               </item>
+               <item>Sir <hi>William Compton.</hi>
+               </item>
+               <item>Col. <hi>Hacker.</hi>
+               </item>
+               <item>Col. <hi>Tracy.</hi>
+               </item>
+               <item>Col. <hi>Hales.</hi>
+               </item>
+               <item>Col. <hi>Dorrell.</hi>
+               </item>
+               <item>Col. <hi>Godfrey.</hi>
+               </item>
+               <item>Col. <hi>Hammond.</hi>
+               </item>
+               <item>Col. <hi>Hardreſse.</hi>
+               </item>
+               <item>Col. <hi>Lee.</hi>
+               </item>
+            </list>
+            <p>Likewiſe, the proceedings and Reſolution of Col. <hi>Cook</hi> and his Regiment of Butchers.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. W.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <div type="letter">
+               <pb facs="tcp:161765:2"/>
+               <pb n="1" facs="tcp:161765:2"/>
+               <head>BLOUDY NEWES FROM KENT</head>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">S</seg>Ince my laſt, here hath hapned a grea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Engagement betwixt the two Ar<g ref="char:EOLhyphen"/>mies, the manner thus; The Lord Generall having entred <hi>Kent,</hi> and forced the <hi>Enemy</hi> to withdraw from <hi>Deptford, Greenwich, Blacke-Heath,</hi> and other places, they purſued teem towards <hi>Rocheſter,</hi> where the <hi>Enemy</hi> with the greatest part of their Forces made a ſtand, and drew up into two di<g ref="char:EOLhyphen"/>ſtinct
+<pb n="2" facs="tcp:161765:3"/>Bodies and after ſome conſultation, they reſolved not to fight in the field, but to make good <hi>Rocheſter bridge,</hi> and the River and Foords at <hi>Maidſtone,</hi> and <hi>Alsbury:</hi> this was unanimonſly aſſented to, and the <hi>Ken<g ref="char:EOLhyphen"/>tiſh forces</hi> preſently marched over <hi>Rocheſter bridg,</hi> and left as many horſe and foot to defend the place, as the town could contain and the reſt of the forces marched to make good the paſsages at Maidſtone, and other pla<g ref="char:EOLhyphen"/>ces; and in the Rivers where the horſe might poſſible get through, they faſtned barrows, and many ſharp ſtakes in the bottome. At <hi>Rocheſter</hi> they beſtirred themſelves to the almost, to make their Fortiſications good; drawing us the Bridge, and caſting up workes where need was, &amp; planted <hi>4</hi> piece of Ordnance at the bridge foot: they al<g ref="char:EOLhyphen"/>ſo planted <hi>40</hi> of their greatest pieces upon the workes neer the River, ad about the town for the defence of themſelves againſt the Army, whom they expected hour<g ref="char:EOLhyphen"/>ly; and upon Thurſday night laſt, the Lord Generall with his forces drew neer the town, which gave a ſtrong allarm to the <hi>Kentiſh-men,</hi> but yet they reſolved to ſtand to it the army was divided into parties, ſome of them being deſigned to fal on at <hi>Maidſtone,</hi> another party at <hi>Alesford,</hi> and the main body to fall an at <hi>Ro<g ref="char:EOLhyphen"/>cheſter,</hi> which they did, and faught gallantly againſt the <hi>Kentiſh-forces</hi> at <hi>Rocheſter bridge,</hi> the <hi>K<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tiſhmen</hi> alſo ſtood it out ſtoutly, and often cryed out, <hi>hey for King
+<pb n="4" facs="tcp:161765:3"/>Charles,</hi> this diſpute laſted long, and many men were ſtain on both ſides, it is ſaid, about <hi>500.</hi> ſome of them being perſons of quality, as a Colonel, a Captane, and many others; like wiſe many are dangerouſly wounded, &amp; it is feared, much bloud will be ſpilt before the bridge can be taken: this buſineſſe by ſome is thought to be much greater then it is; for they give out, that when the Parliaments Forces were ingaging at <hi>Rocheſter bridg</hi> that the ſhip called the <hi>Swallow</hi> lying above the bridg, and the <hi>Rainbow</hi> lying below the bridge, charged with caſe-ſhot, diſcharged themſelves upo the Parliaments Forces, and killed <hi>500.</hi> of them, inſomuch that the ſoul<g ref="char:EOLhyphen"/>diery were forced to retreat; which the Kentiſh men per<g ref="char:EOLhyphen"/>ceiving, ſallied out of Rocheſter with their whole body of howſe, purſued them, took <hi>12,</hi> piece of Ordnance, ſome arms ſome priſoners, all their Carriages, Alſo they ſay, that Col. Barkeſtead, Col. Rich, and divers others are ſlain; <hi>but I give you this Relation not for any real truth I ſuppoſe to be in it, but that you may ſee the various rumours that are ſpead abroad, there<g ref="char:EOLhyphen"/>fore you may take it rather for</hi> a <hi>report of thoſe that would have it ſo, then for a certainty that it is ſo.</hi>
+               </p>
+               <pb n="4" facs="tcp:161765:4"/>
+               <p>
+                  <hi>Many Butchers are gone to the Kentiſh forces, moſt of them from</hi> London, <hi>and ſome from other places one</hi> Cook <hi>is their Colonel, who leads them on, and incourages them, their Regiment couſiſts of about 600. their Colours are red, and their Mot<g ref="char:EOLhyphen"/>to,</hi> For Ring Charles and Kent, <hi>in the upper end of their Cullers is the ſtation of the Butchers Steele in white,</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Graveſ-end,</hi> 
+                     <date>2. <hi>Iune,</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Another Letter touching the Kentiſh Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THE Kentiſh Army is retreated as far as <hi>Rocheſter, Maidſtone,</hi> and other towns adjacent, they conſiſt of about 14000. but are divided into two Bodies, moſt of them being armed; but they cannot coucord and agree a<g ref="char:EOLhyphen"/>bout their Commanders in chief, ſome ſay, that they deſire Col. <hi>Waſhigton</hi> may be their Generall; others give out, that they will have the Lord <hi>Culpepper.</hi>
+               </p>
+               <p>This day the Generall had a Randezvouz upon the Heath beyond this town, where appeared of horſe and foot 8000. The Kentiſh-men have ſent Propoſitions to the General, tou<g ref="char:EOLhyphen"/>ching a treaty, but the Generall returned anſwer, that hee knew not of any order of Parliament directing him to treat, and whereas he finds the Gentlemen of <hi>Kent,</hi> and others in Arms, and perſiſting therein, without, and againſt the autho<g ref="char:EOLhyphen"/>rity of Parliament, and doing many Acts of Hoſtility, to the great dammage of their Neighbours, he cannot captiulate while they are ſo in arms, nor loſe time in proſecution; but if they forthwith lay down, and go home, he doubt not but
+<pb n="5" facs="tcp:161765:4"/>the Parliament with pardon the ſeduced, and puniſhe the ſedu<g ref="char:EOLhyphen"/>cers for example to others.</p>
+               <p>The Regiment, and are very numerous in horſe, few men of quality to be ſeen, but as is apprehended, gathered in Armes; ſome skirmiſhes haye been and at ſeverall times neer 100. priſoners taken.</p>
+               <p>A ſmall party of Col. <hi>Riches</hi> horſe ſallying out, met with a party of the Kentiſh foot, fought with them, and put them to a rout, taking 36 priſoners, with the loſſe of one man, having but 7 in number.</p>
+               <p>But on Wedneſday laſt a party of the Kentiſh men came up unto a Guard of the Parliaments Forces, they fought well, divers of them were ſlain, others taken, among the reſt two young Gentlemen, who were brave in Gold and Silver Lace, with whom the Souldiers changed. The Generall hath a party of horſe in the wild of <hi>Kent,</hi> who deſire to relieve <hi>Dover</hi> Caſtle beſieged by them, to whom are joyned ſome hundreds of the Kentiſh, who have made ſome ſpoyl among the other Kentiſh, and have taken Col. <hi>Culpepper,</hi> and many others. They ſay there is with the Kentiſh-men one of the <hi>Gorings,</hi> and that they increaſe hourly.</p>
+               <closer/>
+               <postscript>
+                  <head>POSTSCRIPT.</head>
+                  <p>SIR, Since the writing of my laſt, we have received in<g ref="char:EOLhyphen"/>telligence, that the party of horſe that went to relieve <hi>Dover</hi> Caſtle, have had a great fight with the Kentiſh Horſe neer <hi>Canterbury,</hi> and have taken divers priſoners, and killed many, with the loſſe of two or thee men, and have totally routed the whole party. They alſo skirmiſhed with another party of the Kentiſh Horſe, commanded by a Colo<g ref="char:EOLhyphen"/>nel formerly in the Kings Army, and after ſome ſhort diſ<g ref="char:EOLhyphen"/>pute, took the ſaid Colonell, and 30 of his men priſoners, The great Fort at <hi>Dover</hi> is re-taken, and now in poſſeſſion of he Parliaments Forces.</p>
+                  <pb n="6" facs="tcp:161765:5"/>
+                  <list>
+                     <head>A Liſt of the Commanders in chief belonging to the Kentiſh Army.</head>
+                     <item>Squire <hi>Hales</hi> Generall.</item>
+                     <item>Sir <hi>Thomas Peyton</hi> Lieute<g ref="char:EOLhyphen"/>nant Generall.</item>
+                     <item>The Lord <hi>Goring.</hi>
+                     </item>
+                     <item>Colonell <hi>Waſhington.</hi>
+                     </item>
+                     <item>Sir <hi>George Liſle.</hi>
+                     </item>
+                     <item>Col. <hi>Dudley.</hi>
+                     </item>
+                     <item>Sir <hi>William Compton.</hi>
+                     </item>
+                     <item>Sir <hi>Iohn Mainy.</hi>
+                     </item>
+                     <item>Colonell <hi>Hacker.</hi>
+                     </item>
+                     <item>Col. <hi>Tracy.</hi>
+                     </item>
+                     <item>Sir <hi>Thomas Palmer.</hi>
+                     </item>
+                     <item>Col. <hi>Hales.</hi>
+                     </item>
+                     <item>Col. <hi>Dorrell.</hi>
+                     </item>
+                     <item>Col. <hi>Godfry.</hi>
+                     </item>
+                     <item>Col. <hi>Hardreſse.</hi>
+                     </item>
+                     <item>Col. <hi>Hammond.</hi>
+                     </item>
+                     <item>Col. <hi>Lee.</hi>
+                     </item>
+                  </list>
+                  <p>It is reported, that their Army is 16000. or thereabouts, and do dayly increaſe. Upon Tueſday laſt about 30. emi<g ref="char:EOLhyphen"/>nent Commanders came out of <hi>Eſsex,</hi> and joyned with the Kentiſh Forces. It is ſaid they expect 5000. from Surry.</p>
+                  <p>Upon Fryday being the 2. of this inſtant June, the Parlia<g ref="char:EOLhyphen"/>ments Army fell upon the Kentiſh forces at Maidſtone, and after a deſperate and bloudy fight, took the ſaid town, toge<g ref="char:EOLhyphen"/>ther with 200 priſoners, and 200 horſe: there was ſlain neer upon 200. of the enemy with the loſſe of 80 men.</p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur G.M.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
